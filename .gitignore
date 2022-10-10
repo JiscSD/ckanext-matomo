@@ -6,6 +6,10 @@ bower_components
 __pycache__/
 *.py[cod]
 
+# IDE/Code Editor files
+.idea/
+.vscode/
+
 # C extensions
 *.so
 
