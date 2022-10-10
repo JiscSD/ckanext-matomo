@@ -28,9 +28,9 @@
     :target: https://pypi.python.org/pypi/ckanext-matomo/
     :alt: License
 
-=============
+==============
 ckanext-matomo
-=============
+==============
 
 .. Put a description of your extension here:
    What does it do? What features does it have?
@@ -114,9 +114,9 @@ coverage installed in your virtualenv (``pip install coverage``) then run::
     nosetests --nologcapture --with-pylons=test.ini --with-coverage --cover-package=ckanext.matomo --cover-inclusive --cover-erase --cover-tests
 
 
----------------------------------
+----------------------------------
 Registering ckanext-matomo on PyPI
----------------------------------
+----------------------------------
 
 ckanext-matomo should be availabe on PyPI as
 https://pypi.python.org/pypi/ckanext-matomo. If that link doesn't work, then
@@ -143,9 +143,9 @@ steps:
        git push --tags
 
 
-----------------------------------------
+-----------------------------------------
 Releasing a New Version of ckanext-matomo
-----------------------------------------
+-----------------------------------------
 
 ckanext-matomo is availabe on PyPI as https://pypi.python.org/pypi/ckanext-matomo.
 To publish a new version to PyPI follow these steps:
